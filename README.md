@@ -16,5 +16,5 @@ Click on the purchase button to express interest in the itinerary.
 HTML
 CSS
 JavaScript
-Contributing
+## Contributing
 Contributions are open for this project.
