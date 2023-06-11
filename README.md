@@ -8,11 +8,11 @@ Interactive purchase button for users to express interest in the itinerary.
 ## Installation
 Clone the repository: git clone [repository URL]
 Open the HTML file in a web browser: index.html
-##Usage
+## Usage
 Open the index.html file in a web browser.
 Explore the page to discover the luxurious African itinerary.
 Click on the purchase button to express interest in the itinerary.
-##Technologies Used
+## Technologies Used
 HTML
 CSS
 JavaScript
